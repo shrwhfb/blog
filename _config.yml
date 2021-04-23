@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint"
 # Site Settings
 locale                   : "kr"
 title                    : "나의 블로그"
-title_separator          : "Version 1.0"
+title_separator          :
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "권영기"
 description              : "발전해나가는 블로그입니디."
