@@ -17,15 +17,15 @@ minimal_mistakes_skin    : "mint"
 # Site Settings
 locale                   : "kr"
 title                    : "나의 블로그"
-title_separator          : "-"
+title_separator          : "Version 1.0"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "권영기"
-description              : "An amazing website."
+description              : "발전해나가는 블로그입니디."
 url                      : "https://shrwhfb.github.io"
 baseurl                  :  "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/cat.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "권영기"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
