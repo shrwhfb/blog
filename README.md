@@ -1,10 +1,11 @@
-## 탐라저장소
+# 탐라저장소
 
-탐라저장소는 제주도의 옛이름인 탐라국에서 파생된 이름으로 제주도와 관련된 문화들이 보존하는 아카이브 역할을 하는 웹페이지입니다. <br>
+탐라저장소는 제주도의 옛이름인 탐라국에서 파생된 이름으로 제주도와 관련된 문화들이 보존하는 아카이브 역할을 하는 웹페이지입니다. 
+
 시간이 지나면서 잊혀지는 제주도 역사과 관련된 설화, 민담, 신화를 장소와 연관지어 제공함으로써 제주도민 뿐만 아니라 관광객들이 장소를 직접 방문하는 것이 목표로 하고있습니다.   
  
 ---
-### 설치 및 사용방법
+## 설치 및 사용방법
 
 
 
@@ -25,23 +26,23 @@
 
 
 ---
-### TO-DO list 
+## TO-DO list 
 
 추후 개발이 더 필요한 리스트 목록입니다. 
-#### UX/ 뷰 디테일 
-[ ] 메인 (false)
+### UX/ 뷰 디테일 
+-[ ]  (false)
 
-#### 기능
-[ ]  (false)
+### 기능
+-[ ]  (false)
 
-#### 콘텐츠 
-[ ]  (false)
+### 콘텐츠 
+-[ ]  (false)
 
 
 ---
 
-### License and Copyright
-#### The MIT License
+## License and Copyright
+### The MIT License
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
