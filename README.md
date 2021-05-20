@@ -47,7 +47,7 @@
 
 PDF.js는 PDF 구문 분석 및 렌더링을위한 범용 웹 표준 기반 플랫폼을 만드는 목표를 하는 HTML5로 빌드 된 PDF뷰어 오픈소스입니다. 
 
-오픈소스를 통해 PDF 뷰어가 없는 환경에서 사용할 수 있도록 지원하며 
+오픈소스를 통해 PDF 뷰어가 없는 환경에서 사용할 수 있도록 지원하며 이를 통해 신화, 설화, 민담에 대한 PDF 파일을 볼 수 있게 했습니다. 
 
 ---
 ## TO-DO list 
@@ -252,4 +252,4 @@ PDF.js는 PDF 구문 분석 및 렌더링을위한 범용 웹 표준 기반 플�
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-Copyright 2013 James Jackson-South under the [Apache License 2.0](http://www.apache.org/licenses/).
+Copyright calixteman under the [Apache License 2.0](http://www.apache.org/licenses/).
