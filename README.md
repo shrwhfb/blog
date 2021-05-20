@@ -43,7 +43,7 @@
 
 ---
 ## OPEN SOURCE
-### [Responsive Boilerplate](https://github.com/ResponsiveBP/Responsive)
+### [PDF.js](https://github.com/mozilla/pdf.js)
 
 반응형 웹 사이트를 구축하기 위한 강력하고 액세스 가능하며 개발자 친화적인 프레임워크 오픈소스입니다.  
 
