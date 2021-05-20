@@ -45,9 +45,9 @@
 ## OPEN SOURCE
 ### [PDF.js](https://github.com/mozilla/pdf.js)
 
-반응형 웹 사이트를 구축하기 위한 강력하고 액세스 가능하며 개발자 친화적인 프레임워크 오픈소스입니다.  
+PDF.js는 PDF 구문 분석 및 렌더링을위한 범용 웹 표준 기반 플랫폼을 만드는 목표를 하는 HTML5로 빌드 된 PDF뷰어 오픈소스입니다. 
 
-프레임워크 자체에서 설정한 스타일을 실행 취소 할 필요를 방지하고 개발자가 효율적인 코드를 작성하고 비용을 절감할 수 있도록 최대한 경량으로 특별히 개발되었습니다.
+오픈소스를 통해 PDF 뷰어가 없는 환경에서 사용할 수 있도록 지원하며 
 
 ---
 ## TO-DO list 
@@ -252,4 +252,4 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-Copyright 2013 James Jackson-South under the [MIT license](http://opensource.org/licenses/MIT).
+Copyright 2013 James Jackson-South under the [Apache License 2.0](http://www.apache.org/licenses/).
